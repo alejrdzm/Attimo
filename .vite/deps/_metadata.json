@@ -1,0 +1,25 @@
+{
+  "hash": "b08176f2",
+  "configHash": "5bbad51a",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "adb02549",
+  "optimized": {
+    "@mui/x-charts/BarChart": {
+      "src": "../../node_modules/@mui/x-charts/esm/BarChart/index.js",
+      "file": "@mui_x-charts_BarChart.js",
+      "fileHash": "a2475b97",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "a6056ae6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-OTS3E4YH": {
+      "file": "chunk-OTS3E4YH.js"
+    }
+  }
+}
